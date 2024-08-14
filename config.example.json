@@ -1,0 +1,5 @@
+{
+    "client_id": "enter your client id that you copied from discord developer portal",
+    "large_image_key": "enter the image name that you upload on rich presence section of your application",
+    "url_link": "enter whatever link you want, this is necessary because button component requires a link"
+}

@@ -1,0 +1,6 @@
+psutil
+pypresence
+humanize
+keyboard
+mouse
+pygetwindow
