@@ -4,12 +4,13 @@ This python script allows users to show their current PC status on their discord
 
 # What is currently supported?
 
-| Feature         | Supported |     Description    |
-| --------------- | --------- | ------------------ |
-| System Status   |    ✅     | CPU and RAM Usage  |
-| AFK time        |    ✅     | How long the user is AFK for. |
-| Active time     |    ✅     | How long the user is Active for. |
-| Active window   | Partially | Which window the user is currently on. |
+| Feature          | Supported |     Description                         |
+| ---------------  | --------- | --------------------------------------- |
+| System Resources |    ✅     | CPU and RAM Usage                      |
+| System Uptime    |    ✅     | How long the system has been up for.   |
+| AFK time         |    ✅     | How long the user is AFK for.          |
+| Active time      |    ✅     | How long the user is Active for.       |
+| Active window    | Partially | Which window the user is currently on.  |
 
 ***Active window isn't visible for Windows/Linux and Mac users but its visible for Mobile devices. I will fix it when I find the reason why this is happening.***
 
